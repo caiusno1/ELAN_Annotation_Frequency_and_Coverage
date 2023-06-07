@@ -10,7 +10,7 @@ Step 1: You need the following Python packages to be installed:
   
 And you need a jupyter notebook setup  
   
-You can skip steps 2-7 if you need no automatic correction
+You can skip steps 2-7 if you need no automatic correction  
 Step 2: Put your ELAN files in ELAN_correction\in  
   
 Step 3: Change ELAN_correction\Nodeaufstellung.csv to include all labels of the tier of interest that should exist  
