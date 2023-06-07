@@ -1,4 +1,4 @@
-# ELAN Annotation Frequency and Coverage
+# ELAN Annotation Frequency and Coverage [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8014393.svg)](https://doi.org/10.5281/zenodo.8014393)
 A Python project to count annotation labels on one tier (per speaker) and calculate the coverage of all labels on tier per Speaker.
 # Some word of warning
 The project is currently adapted to counting number labels e.g. 1, 2, 2.1 .... If you want to count other label types some manual adjustments to the scripts are needed. Some insights are given in the Getting Started paragraph below
