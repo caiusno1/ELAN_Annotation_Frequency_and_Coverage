@@ -2,7 +2,7 @@
 A python project to count annotation lables on one tier (per speaker) and calculate the coverage of all lablels on tier per Speaker.
 # Some word of warning
 The project is currently adapted to counting number lables e.g. 1, 2, 2.1 .... If you want to count other lable types some manual adjustments to the scripts are needed. Some insights are given in the Getting Started paragraph below
-## Getting Startet
+## Getting Started
 Step 1: You need the following python packages to be installed:
 - pympi
 - nltk
