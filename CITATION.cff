@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Biermeier
+    given-names: Kai
+    orcid: https://orcid.org/0000-0002-2879-2359
+title: ELAN Annotation Frequency and_Coverage: Commented Release
+version: v1.0.1
+date-released: 2023-06-13
