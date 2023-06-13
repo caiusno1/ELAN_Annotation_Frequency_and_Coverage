@@ -1,3 +1,9 @@
+# Custom
+ELAN_correction/in/*
+ELAN_correction/out/*
+ELAN_node_statistics/in/*
+ELAN_node_statistics/out/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
