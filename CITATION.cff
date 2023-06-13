@@ -4,6 +4,7 @@ authors:
   - family-names: Biermeier
     given-names: Kai
     orcid: https://orcid.org/0000-0002-2879-2359
-title: ELAN Annotation Frequency and_Coverage: Commented Release
+title: "ELAN Annotation Frequency and_Coverage: Commented Release"
 version: v1.0.1
 date-released: 2023-06-13
+url: "https://github.com/caiusno1/ELAN_Annotation_Frequency_and_Coverage"
